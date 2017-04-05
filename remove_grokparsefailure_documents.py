@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 import datetime
 from argparse import ArgumentParser
 from elasticsearch import Elasticsearch

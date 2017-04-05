@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 import datetime
 import sys
 import time as time2

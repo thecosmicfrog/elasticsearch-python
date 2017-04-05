@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 from argparse import ArgumentParser
 import re
 import signal  # Dealing with Ctrl+C
